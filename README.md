@@ -12,9 +12,9 @@ Model: Memograph M RSG45
 |Temperature|-200-850 [°C]|±0.3|
 
 Installed on 5/9/2024 by:
-*Christian Buck
-*Megan Foder
-*Korey Marlow
+* Christian Buck
+* Megan Foder
+* Korey Marlow
 
  For the 2024 *CHE525 Process Analytics* course. 
 
