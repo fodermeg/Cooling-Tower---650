@@ -5,7 +5,9 @@ Cooling Tower RTD Installation
 This is the data manager installed on Area 650: Cooling Tower. This display shows 6 temperatures in various places on the cooling tower. The temperature measurements are taken from 6 separate 3-wire RTDs.
 
 Manufacturer: Endress+Hauser
+
 Model: Memograph M RSG45
+
 
 |Process Variable|Range|Error|
 |-|-|-|
