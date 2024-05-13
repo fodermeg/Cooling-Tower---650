@@ -2,7 +2,7 @@
 # Cooling Tower- Area 650 - RTD Installation
 Cooling Tower RTD Installation
 
-This is the data manager installed on Area 650: Cooling Tower. This display shows 6 temperatures in various places on the cooling tower. The temperature measurements are taken from 6 separate 3-wire RTDs.
+This is the Profibus data manager installed on Area 650: Cooling Tower. This display shows 6 temperatures in various places on the cooling tower. The temperature measurements are taken from 6 separate 3-wire RTDs.
 
 Manufacturer: Endress+Hauser
 
